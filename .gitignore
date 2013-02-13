@@ -1,0 +1,13 @@
+laravel/
+language/
+storage/
+bundles/docs/
+application/config/
+artisan
+paths.php
+readme.md
+CONTRIBUTING.md
+license.txt
+*.swp
+*.log
+*.sql
